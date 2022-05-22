@@ -3,7 +3,7 @@
 <p> Integrating a ML predective model to a web application using Fast API in the Backend and Angular 13 in the Frontend </p>
 
 <h3>For more details about this project: </h3>
-<p>Here's the links of the Frontend Repository and the notebook of our model </p>
+<p>Here's the links of the Frontend Repository & the notebook of our model </p>
 <p><strong>->The ML Model  :</strong> https://github.com/medsaad2000/Football-Match-Probability-Prediction</p>
 <p><strong>->Frontend Repository (Angular 13) :</strong> https://github.com/medsaad2000/Front-PredictionML </p>
 <h3>Backend :</h3>
