@@ -1,4 +1,4 @@
-# Deploye our ML model (Football Match Probability Prediction) as an API using FastAPI
+# Deploye a ML model (Football Match Probability Prediction) as an API using FastAPI
 
 <p> Integrating a ML predective model to a web application using Fast API in the Backend and Angular 13 in the Frontend </p>
 
