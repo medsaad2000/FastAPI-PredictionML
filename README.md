@@ -24,12 +24,20 @@
 
 <h3>GUI : (Angular 13)</h3>
 
+<p>First Page</p>
 
 ![App](https://user-images.githubusercontent.com/81382178/169704898-896fa7f3-4a73-4588-ba83-f12884053176.png)
 
+<p>We select the Home Team Name & Away Team Name</p>
+
+
 ![App 2](https://user-images.githubusercontent.com/81382178/169704926-6bb40d17-2b1d-4925-9f81-1bf31dea47f1.png)
 
+<p>For example : We choose here Paris Saint Germain VS Juventus and then we click <strong>predict</strong></p>
+
 ![App 3](https://user-images.githubusercontent.com/81382178/169704956-83e206a1-e4ef-4761-93db-dcca193a6c35.png)
+
+<p>Results :</p>
 
 ![App 4](https://user-images.githubusercontent.com/81382178/169704975-d0b8701c-4065-499f-91dd-1f455365e238.png)
 
