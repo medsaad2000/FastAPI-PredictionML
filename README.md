@@ -15,6 +15,7 @@
 
 <h3>To Run the project :</h3>
 1 - Install FastApi and Uvicorn : `pip3 install uvicorn fastapi` 
+<br/>
 2 - Run the project : `uvicorn app:app --reload`
 
 <h3>Testing our API: </h3>
