@@ -14,8 +14,8 @@
 ![fasta](https://user-images.githubusercontent.com/81382178/169704216-444fdf72-be98-4b31-b94f-bcd16fbd8338.png)
 
 <h3>To Run the project :</h3>
-<p> 1 - Install FastApi and Uvicorn : `pip3 install uvicorn fastapi` </p>
-<p> 2 - Run the project : `uvicorn app:app --reload` </p>
+1 - Install FastApi and Uvicorn : `pip3 install uvicorn fastapi` 
+2 - Run the project : `uvicorn app:app --reload`
 
 <h3>Testing our API: </h3>
 <p>To test our API we’ll be using Swagger UI now to access that you’ll just need to add /docs at the end of your path. So go to http://127.0.0.1:8000/docs. And you should see the following output:</p>
