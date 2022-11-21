@@ -1,6 +1,6 @@
 # UEFA CL Predictions
 
-<h2>Deploye a ML model (Football Match Probability Prediction) as an API using FastAPI</h2>
+<h2>Implementing a ML model (Football Match Probability Prediction) as an API using FastAPI</h2>
 
 <p> Integrating a ML predective model to a web application using Fast API in the Backend and Angular 13 in the Frontend </p>
 
